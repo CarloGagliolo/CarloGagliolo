@@ -1,6 +1,6 @@
 ### 👋 Ciao, sono Carlo
 
-**Senior Backend Developer freelance**, specializzato in settori regolamentati (bancario, sanitario, industriale). Java · PHP · SQL.
+**Senior Backend Developer freelance**, specializzato in settori regolamentati (bancario, sanitario, industriale)
 
 🔗 Portfolio: [carlogagliolo.github.io/portfolio](https://carlogagliolo.github.io/portfolio)
 
@@ -31,11 +31,9 @@
 
 # 🚀 Progetti in evidenza:
 
-**[Gescar2](https://carlogagliolo.github.io/Gescar2-demo/)** — Riscrittura moderna di Gescar, gestionale per centri di revisione auto. PHP 8.2, Symfony 7.3, Doctrine ORM 3, MySQL 8.0. [Demo pubblica →](https://carlogagliolo.github.io/Gescar2-demo/)
+**[Gescar2](https://carlogagliolo.github.io/Gescar2-demo/)** — Riscrittura moderna di Gescar, gestionale per centri di revisione auto. PHP 8.2, Symfony 7.3, Doctrine ORM 3, MySQL 8.0.
 
 **Gescar** — Gestionale per centri di revisione auto, sviluppato nel 2018 e in produzione da ~8 anni. PHP 5.5.9, Symfony 3.4, Doctrine 2.5, MySQL.
-
-📁 Altri progetti e dettagli sul [portfolio](https://carlogagliolo.github.io/portfolio).
 
 ---
 [![](https://visitcount.itsvg.in/api?id=CarloGagliolo&icon=0&color=0)](https://visitcount.itsvg.in)
